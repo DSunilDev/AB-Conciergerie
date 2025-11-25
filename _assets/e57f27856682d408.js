@@ -1,0 +1,11 @@
+(globalThis["webpackChunk_canva_web"] = globalThis["webpackChunk_canva_web"] || []).push([[82208],{
+
+/***/ 354456:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(905716);__web_req__(258551);__web_req__(586838);__web_req__(920725);__web_req__(246393);globalThis._5f74ec40302898c5a55451c9fbd04240 = globalThis._5f74ec40302898c5a55451c9fbd04240 || {};(function(__c) {var vHc,wHc,xHc;vHc=__c.J_({D:__c.I_({text:__c.S0.Vx(1),dwa:__c.S0.Vx(2),...__c.g1(3),...__c.i1(4),...__c.j1(5)})});wHc=__c.y_()(()=>({createDefault(){return{data:{D:{text:"[Add Text]",dwa:"[Your name]",color:"#fdf9b4",gd:"#000000",Vv:__c.k1({size:8})},document:{}},P:{width:100,height:100}}}}));
+xHc=__c.i_()(({$L:{expr:a}})=>({metadata:{type:"demo-8",name:__c.vb("vAIjvQ",[8])},D:{type:0,Vy:({D:b},{P:c})=>{const d=a.classes.nfa,e=a.classes.qfa,f=a.classes.r4,g=a.classes.sQ,h=b.Vv,k=()=>c.width-12,l=()=>(h.size??12)*.67*((h.lineHeight??1400)/1E3),m=a.classes.w4.create({},{U:{fill:f.create({},{attributes:{color:()=>b.color}})},attributes:{top:0,left:0,width:()=>c.width,height:()=>c.height-4}}),n=d.create({},{U:{pb:a.list([()=>g.create({d:`M0 0 ${.05*c.width} ${4}C${.25*c.width} 0 ${.75*c.width} 0 ${.95*
+c.width} ${4}l${.05*c.width}-${4}H0`},{U:{fill:f.create({},{attributes:{color:"#394c60",Ra:.9}})},attributes:{}})])},attributes:{top:()=>c.height-4,left:0,width:()=>c.width,height:4,viewBox:()=>({top:0,left:0,width:c.width,height:4})}}),p=e.create({},{U:{text:()=>__c.ekc(b.text,{...__c.P1(h),color:b.gd})},attributes:{left:6,top:6,width:k,height:()=>c.height-4-12-6-l(),pg:1}}),q=e.create({},{U:{text:()=>__c.ekc(b.dwa,{...__c.P1(h),color:b.gd,"text-align":"start","font-size":(h.size??12)*.67,"font-weight":"thin"})},
+attributes:{left:6,top:()=>c.height-4-12+6-l(),width:k,height:l,pg:1}});return{Ka:a.list(()=>[n,m,p,q])}}},exports:{}}));__c.X_={zh:wHc,Ro:xHc,Ah:vHc};
+}).call(globalThis, globalThis._5f74ec40302898c5a55451c9fbd04240);}
+
+}])
+//# sourceMappingURL=sourcemaps/e57f27856682d408.js.map

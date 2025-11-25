@@ -1,0 +1,10 @@
+(globalThis["webpackChunk_canva_web"] = globalThis["webpackChunk_canva_web"] || []).push([[64414],{
+
+/***/ 632050:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(905716);globalThis._5f74ec40302898c5a55451c9fbd04240 = globalThis._5f74ec40302898c5a55451c9fbd04240 || {};(function(__c) {var PBc=__webpack_require__(322594),R5=PBc.jsx,QBc=PBc.jsxs;var RBc=__webpack_require__(87387).A;var SBc=__webpack_require__(721226).PA;var TBc=__webpack_require__(205482),UBc=TBc.useCallback,VBc=TBc.useMemo,WBc=TBc.useState;var XBc=__webpack_require__(34741).A;var YBc=class{get U_(){return!this.Pj.active}get oF(){return __c.cr()||this.Eb||this.ji}get $_(){return!this.oF}get Eb(){return this.Fj.Eb(this.fill)}get Kd(){return this.Fj.Kd(this.fill)}get ji(){return this.Fj.ji(this.fill)}get Hi(){return this.Fj.Hi(this.fill)}get duration(){return this.Fj.getDuration(this.fill)}get io(){return this.Fj.getState(this.fill).io}get currentTime(){return this.Fj.getCurrentTime(this.fill)}get bj(){return __c.Cw(this.Fj,this.fill)}get volume(){return this.Fj.getVolume(this.fill)}get muted(){return this.volume===
+0}constructor(a,b,c){this.Fj=a;this.fill=b;this.Pj=c;this.contentType=1;this.ia=this.zIndex=void 0;this.o$=this.WI=this.rN=this.xz=this.EEa=this.bEa=this.qF=this.n$=!0;this.nN=this.ULa=!1}};__c.E_a={D4:SBc(a=>{const {Fj:b,TOa:c,Pjb:d,...e}=a,f=e.item;__c.x(f.type==="design");const [g,h]=WBc(0),k=VBc(()=>new __c.Q8a,[]),l=__c.z(__c.kx(c,__c.z(f.ba.first()))),m=UBc(r=>{r!=null&&k.xca(r)},[k]),n=k.active?{width:g,left:0}:a.bg,p=VBc(()=>new YBc(b,l,k),[l,k,b]),q=VBc(()=>new __c.Iw(b,l),[l,b]);return a.ha.pd?.Rpa!=null?R5(d,{...e}):R5(XBc,{onResize:r=>h(r.entry?.width??0),children:({measureRef:r})=>QBc("div",{ref:RBc(m,r),className:"jkKFFw",children:[R5(d,{...e,bg:n}),R5(__c.Hw,{store:p,
+controller:q,Xqa:!0,Pj:k})]})})})};
+}).call(globalThis, globalThis._5f74ec40302898c5a55451c9fbd04240);}
+
+}])
+//# sourceMappingURL=sourcemaps/7eddc10219779a04.js.map
